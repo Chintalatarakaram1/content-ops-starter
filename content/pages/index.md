@@ -21,7 +21,7 @@ sections:
 
     actions: []
     media:
-      altText: Unblock your team boost your time to production preview
+      altText: ''
       elementId: ''
       type: ImageBlock
     badge:
