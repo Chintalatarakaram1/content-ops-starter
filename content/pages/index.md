@@ -8,10 +8,17 @@ sections:
       color: text-primary
       type: TitleBlock
     subtitle: Where Cybersecurity Meets Innovation
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+      Scriptsniffer.pro is a cutting-edge cybersecurity platform dedicated to
+      helping security enthusiasts, ethical hackers, and bug bounty hunters
+      enhance their skills and protect the web. With a focus on discovering
+      vulnerabilities, offering security tools, and providing up-to-date
+      research, Scriptsniffer empowers users to tackle modern web security
+      challenges. Whether you're looking for bug bounty tips, web scanning
+      resources, or insights into the latest threats, Scriptsniffer is your
+      go-to destination for all things web security.
+
     actions:
       - label: Get started
         altText: ''
