@@ -65,10 +65,6 @@ sections:
     subtitle: ''
     text: ''
     actions: []
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
