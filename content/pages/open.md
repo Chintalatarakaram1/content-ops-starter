@@ -27,7 +27,7 @@ sections:
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
-      url: /images/Add a heading.png
+      url: /images/abstract-background.svg
       altText: Placeholder image
       backgroundSize: cover
       backgroundPosition: center
